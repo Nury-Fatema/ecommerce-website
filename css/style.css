@@ -1,0 +1,110 @@
+.container{
+    font-family: 'Poppins', ;
+    margin-bottom: 80px;
+}
+
+#navbarMenu{
+    
+    font-size: 18px;
+    color: #707070;
+}
+
+h1{
+    font-size: 35px;
+    color: #1f1f1f;
+
+}
+p{
+    font-size: 16px;
+    color: #707070;
+}
+.buy-now-button{
+    padding: 5px 8px;
+    background-color:black ;
+    font-size: 12px;
+    color: #ffffff;
+    text-transform: uppercase;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#carouselExampleIndicators .carousel-indicators .active{   
+    background-color: #ffb229;
+    width: 20px;
+    height: 5px;
+    border-radius: 40px;
+}
+#carouselExampleIndicators .carousel-indicators li{
+        background-color: #707070; 
+        width: 7px;
+        height: 5px;
+        border-radius: 50%;
+    
+    }
+    
+
+h4{
+    font-size: 30px;
+}
+h6{
+    color: #ff9d00;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card img {
+    width: 60%;
+    
+}
+hr{
+    border-radius:5px;
+    background-image: linear-gradient(to right, #ffc022 , #ff9f34);
+    width:100px;
+    height:5px;
+    margin-top: 0em; 
+}
+
+.category{
+    background-color:white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.bag{
+    padding:40px 40px ;
+}
+.beauty{
+    padding: 15px 5px;
+    margin-bottom: 10px;
+}
+.shoe{
+    padding: 15px 5px;
+    margin-top: 10px;
+}
+.pale{
+    width: 100%;
+}
+
+#subscribe {
+    padding: 100px;
+    text-align: center !important;
+
+}
+#subscribe h6 {
+    color: gray;
+
+}
+
+.subscribe-btn {
+    margin-top: 20px;
+    
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding-bottom: 10px;
+}
